@@ -68,6 +68,7 @@ RUN echo "#!/bin/sh\nexit 0" > /usr/sbin/policy-rc.d && \
         ttf-mscorefonts-installer \
         unixodbc-dev \
         unzip \
+        vim \
         xvfb \
         xxd \
         zlib1g && \
